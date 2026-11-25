@@ -73,6 +73,7 @@ div.chart{
 
     figure {
         margin: auto;
+     max-width: 750px;
     }
 
 img {max-width: 100%;
