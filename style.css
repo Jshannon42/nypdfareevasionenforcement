@@ -31,11 +31,10 @@ html, body {
 body{ background-color: aliceblue;}
 
 figure{max-width: 600px;
+        margin: 0 auto;
 }
 
-.center {
-  display: block;
-  margin: 0 auto;
+img{
   width: 100%;
 }
 
@@ -72,11 +71,12 @@ div.chart{
         background-color: aliceblue;
         }
 
-    .container{
+    figure {
         margin: auto;
     }
 
-
+img {max-width: 100%;
+    }
 
 /*All of my desktop rules need
 to be above this bracket*/
