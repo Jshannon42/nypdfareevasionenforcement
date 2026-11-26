@@ -19,7 +19,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 * {
     box-sizing: border-box;
 }
-
+/* font style from Google */ 
 html, body {
 /* Sets default font-size to 16px, ensuring 1em = 16px; */
     font-size: 16px;
@@ -30,10 +30,10 @@ html, body {
 
 body{ background-color: aliceblue;}
 
+/* format for centering the image and body */ 
 figure{max-width: 750px;
         margin: 0 auto;
 }
-
 img{
   width: 100%;
 }
@@ -45,7 +45,7 @@ font-weight: normal;}
 .container{
     margin: 20px;
     max-width: 750px;}
-
+/* end of format for both */ 
 
 h2{
     font-weight: normal;
@@ -70,7 +70,7 @@ div.chart{
     body{
         background-color: aliceblue;
         }
-
+/* format for centering the image and body */ 
     figure {
         margin: auto;
      max-width: 750px;
